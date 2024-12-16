@@ -72,4 +72,12 @@
       </plugins>
     </pluginManagement>
   </build>
+
+  <distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>GitHub junjimikami Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/junjimikami/test2</url>
+   </repository>
+  </distributionManagement>
 </project>
